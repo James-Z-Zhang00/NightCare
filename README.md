@@ -1,10 +1,8 @@
-# NightCare Group Project
+# NightCare Project
 
 A Child Care Center management system, developed by Java, Java Swing and NetBeans RCP platform.
 
 Applied typical `Object-Oriented Programming` design concepts and full stack approach.
-
-The work was mostly about the front end part, back end parts were built by other group memebers.
 
 ## General Structure
 
