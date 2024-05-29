@@ -1,8 +1,10 @@
-# NightCare Project
+# NightCare Group Project
 
 A Child Care Center management system, developed by Java, Java Swing and NetBeans RCP platform.
 
 Applied typical `Object-Oriented Programming` design concepts and full stack approach.
+
+The work was mostly about the front end part, back end parts were built by other group memebers.
 
 ## General Structure
 
@@ -14,5 +16,35 @@ The project was made by 3 parts:
 *I used CSV for data storage to simplify the process*
 
 ## Java Swing Front End Design
+
+UI components:
+- jPanel
+- jTextfield
+- jButton
+- jTable
+- jLabel
+- etc.
+
+## Back End Logic 
+
+Object Oriented Programming Structure
+
+(structure diagram)
+
+Object Oriented Design Concepts:
+- Abstraction
+- Encapsulation
+- Inheritance
+- Polymorphism
+
+(private/public access modifiers and @Overwrite screenshots)
+
+File I/O
+
+(some code snapt)
+
+Singleton Factory Design Pattern
+
+(some code snapt)
 
 
