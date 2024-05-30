@@ -77,7 +77,8 @@ private void saveButtonActionPerformed(java.awt.event.ActionEvent evt) {
 
 Object Oriented Programming Structure
 
-(structure diagram)
+<img width="989" alt="Screen Shot 2024-05-30 at 11 48 02 AM" src="https://github.com/James-Z-Zhang00/NightCare/assets/144994336/e207edd6-7fd6-4ae2-bbb8-738dc7b96ae9">
+<img width="507" alt="Screen Shot 2024-05-30 at 11 43 15 AM" src="https://github.com/James-Z-Zhang00/NightCare/assets/144994336/85259442-dfa8-42fb-ad48-62c60c5983de">
 
 Object Oriented Design Concepts:
 - Abstraction
